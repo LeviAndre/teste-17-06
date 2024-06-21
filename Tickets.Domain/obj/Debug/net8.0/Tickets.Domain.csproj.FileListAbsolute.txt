@@ -1,0 +1,11 @@
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Domain\bin\Debug\net8.0\Tickets.Domain.deps.json
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Domain\bin\Debug\net8.0\Tickets.Domain.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Domain\bin\Debug\net8.0\Tickets.Domain.pdb
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Domain\obj\Debug\net8.0\Tickets.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Domain\obj\Debug\net8.0\Tickets.Domain.AssemblyInfoInputs.cache
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Domain\obj\Debug\net8.0\Tickets.Domain.AssemblyInfo.cs
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Domain\obj\Debug\net8.0\Tickets.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Domain\obj\Debug\net8.0\Tickets.Domain.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Domain\obj\Debug\net8.0\refint\Tickets.Domain.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Domain\obj\Debug\net8.0\Tickets.Domain.pdb
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Domain\obj\Debug\net8.0\ref\Tickets.Domain.dll
