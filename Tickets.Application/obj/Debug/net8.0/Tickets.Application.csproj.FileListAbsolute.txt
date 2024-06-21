@@ -1,0 +1,15 @@
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\bin\Debug\net8.0\Tickets.Application.deps.json
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\bin\Debug\net8.0\Tickets.Application.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\bin\Debug\net8.0\Tickets.Application.pdb
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\obj\Debug\net8.0\Tickets.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\obj\Debug\net8.0\Tickets.Application.AssemblyInfoInputs.cache
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\obj\Debug\net8.0\Tickets.Application.AssemblyInfo.cs
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\obj\Debug\net8.0\Tickets.Application.csproj.CoreCompileInputs.cache
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\obj\Debug\net8.0\Tickets.Application.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\obj\Debug\net8.0\refint\Tickets.Application.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\obj\Debug\net8.0\Tickets.Application.pdb
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\obj\Debug\net8.0\ref\Tickets.Application.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\bin\Debug\net8.0\Tickets.Domain.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\bin\Debug\net8.0\Tickets.Domain.pdb
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\obj\Debug\net8.0\Tickets.Application.csproj.AssemblyReference.cache
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\obj\Debug\net8.0\Tickets..62D2E05A.Up2Date

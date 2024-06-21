@@ -1,0 +1,11 @@
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\bin\Debug\net8.0\Tickets.Contracts.deps.json
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\bin\Debug\net8.0\Tickets.Contracts.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\bin\Debug\net8.0\Tickets.Contracts.pdb
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\obj\Debug\net8.0\Tickets.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\obj\Debug\net8.0\Tickets.Contracts.AssemblyInfoInputs.cache
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\obj\Debug\net8.0\Tickets.Contracts.AssemblyInfo.cs
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\obj\Debug\net8.0\Tickets.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\obj\Debug\net8.0\Tickets.Contracts.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\obj\Debug\net8.0\refint\Tickets.Contracts.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\obj\Debug\net8.0\Tickets.Contracts.pdb
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\obj\Debug\net8.0\ref\Tickets.Contracts.dll

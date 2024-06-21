@@ -1,0 +1,17 @@
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\bin\Debug\net8.0\Tickets.Infrastructure.deps.json
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\bin\Debug\net8.0\Tickets.Infrastructure.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\bin\Debug\net8.0\Tickets.Infrastructure.pdb
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\obj\Debug\net8.0\Tickets.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\obj\Debug\net8.0\Tickets.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\obj\Debug\net8.0\Tickets.Infrastructure.AssemblyInfo.cs
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\obj\Debug\net8.0\Tickets.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\obj\Debug\net8.0\Tickets.Infrastructure.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\obj\Debug\net8.0\refint\Tickets.Infrastructure.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\obj\Debug\net8.0\Tickets.Infrastructure.pdb
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\obj\Debug\net8.0\ref\Tickets.Infrastructure.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\bin\Debug\net8.0\Tickets.Application.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\bin\Debug\net8.0\Tickets.Domain.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\bin\Debug\net8.0\Tickets.Application.pdb
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\bin\Debug\net8.0\Tickets.Domain.pdb
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\obj\Debug\net8.0\Tickets.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Infrastructure\obj\Debug\net8.0\Tickets..14D9B780.Up2Date
