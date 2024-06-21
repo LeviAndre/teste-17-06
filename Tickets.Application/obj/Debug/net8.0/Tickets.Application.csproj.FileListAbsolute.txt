@@ -13,3 +13,4 @@ C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\bin\Debu
 C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\bin\Debug\net8.0\Tickets.Domain.pdb
 C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\obj\Debug\net8.0\Tickets.Application.csproj.AssemblyReference.cache
 C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\obj\Debug\net8.0\Tickets..62D2E05A.Up2Date
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Application\obj\Debug\net8.0\Tickets.Application.sourcelink.json

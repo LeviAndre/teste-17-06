@@ -9,3 +9,4 @@ C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\obj\Debug\
 C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\obj\Debug\net8.0\refint\Tickets.Contracts.dll
 C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\obj\Debug\net8.0\Tickets.Contracts.pdb
 C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\obj\Debug\net8.0\ref\Tickets.Contracts.dll
+C:\Users\andre.levi\Documents\repos\tickets\Tickets\Tickets.Contracts\obj\Debug\net8.0\Tickets.Contracts.sourcelink.json

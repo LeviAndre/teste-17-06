@@ -1,8 +1,5 @@
-using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using Tickets.Application.Authentication.Commands.Register;
-using Tickets.Application.Authentication.Common;
-using Tickets.Application.Authentication.Query.Login;
+using Tickets.Application.Services.Authentication;
 using Tickets.Contracts.Authentication;
 
 namespace Tickets.Api.Controllers;
@@ -11,23 +8,22 @@ namespace Tickets.Api.Controllers;
 [Route("auth")]
 public class AuthenticationController : ControllerBase
 {
-    private readonly ISender _mediator; 
+    private readonly IAuthenticationService _authenticationService;
 
-    public AuthenticationController(ISender mediator)
+    public AuthenticationController(IAuthenticationService authenticationService)
     {
-        _mediator = mediator;
+        _authenticationService = authenticationService;
     }
 
     [HttpPost("register")]
-    public async Task<IActionResult> Register(RegisterRequest request)
+    public IActionResult Register(RegisterRequest request)
     {
-        var command = new RegisterCommand(
+        var authResult = _authenticationService.Register(
             request.FirstName, 
             request.LastName, 
             request.Email, 
             request.Password
         );
-        AuthenticationResult authResult = await _mediator.Send(command);
 
         var response  = new AuthenticationResponse(
             authResult.User.Id,
@@ -41,11 +37,12 @@ public class AuthenticationController : ControllerBase
     }
 
     [HttpPost("login")]
-    public async Task<IActionResult> Login(LoginRequest request)
+    public IActionResult Login(LoginRequest request)
     {
-        var query = new LoginQuery(request.Email, request.Password);
-        var authResult = await _mediator.Send(query);
-
+        var authResult = _authenticationService.Login(
+            request.Email, 
+            request.Password
+        );
 
         var response  = new AuthenticationResponse(
             authResult.User.Id,

@@ -1,4 +1,5 @@
 
+using Tickets.Api;
 using Tickets.Api.Filters;
 using Tickets.Api.Middleware;
 using Tickets.Application.Services;
@@ -7,6 +8,7 @@ using Tickets.Infrastructure;
 var builder = WebApplication.CreateBuilder(args);
 {
     builder.Services
+        .AddPresentation()
         .AddApplication()
         .AddInfrastructure(builder.Configuration);
 
@@ -16,7 +18,11 @@ var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 {
     app.UseMiddleware<ErrorHandlingMiddleware>();
+
     app.UseHttpsRedirection();
+    app.UseAuthentication();
+    app.UseAuthorization();
+
     app.MapControllers();
     app.Run();
 }
