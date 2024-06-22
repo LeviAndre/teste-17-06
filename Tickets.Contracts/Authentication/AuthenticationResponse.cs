@@ -1,7 +1,7 @@
 namespace Tickets.Contracts.Authentication;
 
 public record AuthenticationResponse(
-    Guid id,
+    int? id,
     string FirstName,
     string LastName,
     string Email, 

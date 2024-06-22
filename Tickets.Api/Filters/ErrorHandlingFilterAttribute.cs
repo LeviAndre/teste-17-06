@@ -13,7 +13,7 @@ public class ErrorHandlingFilterAttribute : ExceptionFilterAttribute
         var details = new ProblemDetails
         {
             Type = "https://tools.ietf.org/html/rfc7231#section-6.6.1",
-            Title = "Ocorreu um erro ao processar a sua requisição. ",
+            Title = exception.Message,
             Status = (int)HttpStatusCode.InternalServerError,
         };
 

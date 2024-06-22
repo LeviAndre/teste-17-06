@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Application\\Tickets.Application.csproj",
+      "projectUniqueName": "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Application\\Tickets.Application.csproj",
       "projectName": "Tickets.Application",
-      "projectPath": "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Application\\Tickets.Application.csproj",
+      "projectPath": "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Application\\Tickets.Application.csproj",
       "packagesPath": "C:\\Users\\andre.levi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Application\\obj\\",
+      "outputPath": "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre.levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,8 +102,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj": {
-              "projectPath": "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj"
+            "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj": {
+              "projectPath": "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj"
             }
           }
         }

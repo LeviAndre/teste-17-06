@@ -1,5 +1,6 @@
 using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
@@ -18,10 +19,16 @@ public static class DependencyInjection
         ConfigurationManager configuration) 
     {
         services.AddAuth(configuration);
+        services.AddDbContext<TicketsDbContext>(options => {
+            options.UseSqlServer("Server=FCAMARA-DEVS-01;Database=Tickets;User Id=SA;Password=pswrd1234;TrustServerCertificate=true");
+        });
+
         services.AddScoped<IUserRepository, UserRepository>();
     
         return services;
     }
+
+
 
     public static IServiceCollection AddAuth(
         this IServiceCollection services,

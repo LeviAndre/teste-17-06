@@ -17,10 +17,12 @@ public class AuthenticationService : IAuthenticationService
         _userRepository = userRepository;
     }
 
-    public AuthenticationResult Login(string email, string password)
+    public async Task<AuthenticationResult> Login(string email, string password)
     {
         //CHECK IF USER EXISTS
-        if(_userRepository.GetUserByEmail(email) is not User user)
+        User user = await _userRepository.GetUserByEmail(email);
+
+        if(user is not User)
         {
             throw new Exception("Usuário não encontrado. ");
         }
@@ -40,10 +42,10 @@ public class AuthenticationService : IAuthenticationService
         );
     }
 
-    public AuthenticationResult Register(string firstName, string lastName, string email, string password)
+    public async Task<AuthenticationResult> Register(string firstName, string lastName, string email, string password)
     {
         //CHECK USER EXISTENCE
-        if (_userRepository.GetUserByEmail(email) is not null)
+        if (await _userRepository.GetUserByEmail(email) is not null)
         {
             throw new Exception("Email já cadastrado. ");
         }
@@ -56,7 +58,7 @@ public class AuthenticationService : IAuthenticationService
             Password = password
         };
 
-        _userRepository.Add(user);
+        await _userRepository.Add(user);
 
         //GENERATE JWT TOKEN
         var token = _jwtTokenGenerator.GenerateToken(user);

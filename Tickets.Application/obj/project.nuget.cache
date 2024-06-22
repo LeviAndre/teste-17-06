@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tr/0O6IZXzCyYI28AOaHvOH03QA5evpfhK+pDDVlvirLAvpcrdbLRtdvwwkZjSgbS9h9qJ/SNPMlG3ejyKnU5g==",
+  "dgSpecHash": "YaWT6rhroK3vG3IXkai+R6BQPDx18S+qE2tEjnL9NIIlqkvJ+vasvA+hEtHs/7ZMw4pDT+uhku+Im/wiBmrNCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Application\\Tickets.Application.csproj",
+  "projectFilePath": "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Application\\Tickets.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre.levi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
   ],
