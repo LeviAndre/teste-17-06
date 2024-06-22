@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HxkicbonMAcu96U+G824r57nIOz3n98e2aYEq4yiAJoWuNyh30GZFdDBg0iJZ7wirzzQpsjWt/qn3aq2XKYNPg==",
+  "dgSpecHash": "a6CEM54VxNOEy89PCwl8oVMbIcWzvdOypJ5NqumpLxgmmUkPMgwj2tEXxRgVn2iPfuX7bq3ekrEvUnpouRY3UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Infrastructure\\Tickets.Infrastructure.csproj",
+  "projectFilePath": "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Infrastructure\\Tickets.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre.levi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\andre.levi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

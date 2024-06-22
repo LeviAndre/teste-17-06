@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zWJ/vP3hvoI9juByBuRzwrk0Mpd/xdGLSmuUbUwTziQekyA7WHUoU7mffySdXE8lh2MHgz5p0leo+vhv0AUxKA==",
+  "dgSpecHash": "5os66piTzsjIWrxZuqQr8t0hDOg8ubS2781OU8RUE0ZhNi6FI8IG+F7gjsdSH8xGd3D/4aVYIdVki0gromsVgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj",
+  "projectFilePath": "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

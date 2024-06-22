@@ -10,6 +10,7 @@ public static class DependencyInjection
     {
         services.AddScoped<IAuthenticationService, AuthenticationService>();
         services.AddTransient<ITicketService, TicketService>();
+        services.AddTransient<ITicketStatusService, TicketStatusService>();
     
         return services;
     }
