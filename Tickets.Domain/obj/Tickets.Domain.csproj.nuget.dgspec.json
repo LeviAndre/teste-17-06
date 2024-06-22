@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj": {}
+    "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj": {
+    "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj",
         "projectName": "Tickets.Domain",
-        "projectPath": "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj",
+        "projectPath": "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\Tickets.Domain.csproj",
         "packagesPath": "C:\\Users\\andre.levi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\obj\\",
+        "outputPath": "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre.levi\\AppData\\Roaming\\NuGet\\NuGet.Config",

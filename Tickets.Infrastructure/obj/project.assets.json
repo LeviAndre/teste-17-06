@@ -2675,11 +2675,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Infrastructure\\Tickets.Infrastructure.csproj",
+      "projectUniqueName": "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Infrastructure\\Tickets.Infrastructure.csproj",
       "projectName": "Tickets.Infrastructure",
-      "projectPath": "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Infrastructure\\Tickets.Infrastructure.csproj",
+      "projectPath": "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Infrastructure\\Tickets.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\andre.levi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Infrastructure\\obj\\",
+      "outputPath": "c:\\Users\\andre.levi\\Documents\\repos\\tickets\\Tickets\\Tickets.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre.levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
