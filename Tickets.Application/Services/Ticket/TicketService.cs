@@ -19,7 +19,9 @@ public class TicketService : ITicketService
                 Title = title,
                 Description = description,
                 UserId = userId,
-                StatusId = 1
+                StatusId = 1,
+                CreatedAt = DateTime.UtcNow,
+                UpdatedAt = DateTime.UtcNow
             };
 
             await _ticketRepository.PostTicket(ticket);
@@ -46,7 +48,9 @@ public class TicketService : ITicketService
                 ticket.Title,
                 ticket.Description,
                 ticket.StatusId,
-                ticket.UserId
+                ticket.UserId,
+                ticket.CreatedAt,
+                ticket.UpdatedAt
             );
         } 
         catch (Exception ex)
@@ -67,7 +71,9 @@ public class TicketService : ITicketService
                 ticket.Title,
                 ticket.Description,
                 ticket.StatusId,
-                ticket.UserId
+                ticket.UserId,
+                ticket.CreatedAt,
+                ticket.UpdatedAt
             )).ToList();
         }
         catch (Exception ex)

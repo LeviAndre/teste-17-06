@@ -24,13 +24,13 @@ public class AuthenticationService : IAuthenticationService
 
         if(user is not User)
         {
-            throw new Exception("Usuário não encontrado. ");
+            throw new Exception("User not found. ");
         }
 
         //CHECK IF USER INFORMATION MATCHES WITH OUR DB
         if (user.Password != password) 
         {
-            throw new Exception("Senha incorreta. ");
+            throw new Exception("Incorrect password. ");
         };
 
         //GENERATE JWT TOKEN

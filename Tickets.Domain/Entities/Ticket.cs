@@ -1,5 +1,4 @@
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Tickets.Domain.Entities;
 
@@ -11,4 +10,6 @@ public class Ticket
     public string Description { get; set; } = null!;
     public int? StatusId { get; set; } = null!;
     public int? UserId { get; set; } = null!;
+    public DateTime? CreatedAt { get; set; }
+    public DateTime? UpdatedAt { get; set; }
 }

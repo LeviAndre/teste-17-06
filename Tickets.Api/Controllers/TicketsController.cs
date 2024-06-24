@@ -33,7 +33,7 @@ public class TicketsController : ControllerBase
         return Unauthorized(new { Error = "Invalid user ID" });
     }
 
-        await _ticketService.CreateTicket(request.Title, request.Description, (int)userId);
+        await _ticketService.CreateTicket(request.title, request.description, (int)userId);
 
         return Ok();
     }

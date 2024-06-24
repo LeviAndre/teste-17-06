@@ -5,5 +5,7 @@ public record TicketResult(
     string Title,
     string Description,
     int? StatusId,
-    int? UserId
+    int? UserId,
+    DateTime? CreatedAt,
+    DateTime? UpdatedAt
 );
